@@ -25,7 +25,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
 
 
 # Frontends
-> _Sorted by popularity on Fri Sep 07 2018_
+> _Sorted by popularity on Sun Sep 09 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -55,7 +55,7 @@ Work In Progress:
 [Nuxt.js](https://github.com/gothinkster/realworld/issues/218)**
 
 # Backends
-> _Sorted by popularity on Fri Sep 07 2018_
+> _Sorted by popularity on Sun Sep 09 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -107,7 +107,7 @@ Work In Progress:
 [Zend Framework](https://github.com/gothinkster/realworld/issues/247)**
 
 # Mobile
-> _Sorted by popularity on Fri Sep 07 2018_
+> _Sorted by popularity on Sun Sep 09 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
